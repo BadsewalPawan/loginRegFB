@@ -1,0 +1,66 @@
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "6gZ-YV-xpJ"; */
+"6gZ-YV-xpJ.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "AXH-IL-UB0"; */
+"AXH-IL-UB0.text" = "Error";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "Aok-9X-h2l"; */
+"Aok-9X-h2l.text" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? Login!"; ObjectID = "C4M-RV-jsq"; */
+"C4M-RV-jsq.normalTitle" = "Already have an account? Login!";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "JWa-2P-PyF"; */
+"JWa-2P-PyF.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "Mej-TS-Xgi"; */
+"Mej-TS-Xgi.text" = "----";
+
+/* Class = "UIViewController"; title = "loginRegVC"; ObjectID = "OsZ-Av-4CI"; */
+"OsZ-Av-4CI.title" = "loginRegVC";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "PBT-OT-SaS"; */
+"PBT-OT-SaS.placeholder" = "Full Name";
+
+/* Class = "UILabel"; text = "..::..::..::.."; ObjectID = "QXH-dS-aNa"; */
+"QXH-dS-aNa.text" = "..::..::..::..";
+
+/* Class = "UISegmentedControl"; Tmg-k0-4ub.segmentTitles[0] = "Male"; ObjectID = "Tmg-k0-4ub"; */
+"Tmg-k0-4ub.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; Tmg-k0-4ub.segmentTitles[1] = "Female"; ObjectID = "Tmg-k0-4ub"; */
+"Tmg-k0-4ub.segmentTitles[1]" = "Female";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "X7e-NP-MZn"; */
+"X7e-NP-MZn.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Z9g-io-KsO"; */
+"Z9g-io-KsO.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "c3a-Yl-M88"; */
+"c3a-Yl-M88.text" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Log out!"; ObjectID = "cK8-wa-cO5"; */
+"cK8-wa-cO5.normalTitle" = "Log out!";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "g3N-th-ro2"; */
+"g3N-th-ro2.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UIViewController"; title = "welcomeVC"; ObjectID = "hgd-fk-ItG"; */
+"hgd-fk-ItG.title" = "welcomeVC";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account? Register!"; ObjectID = "igX-7f-GIS"; */
+"igX-7f-GIS.normalTitle" = "Don't have an account? Register!";
+
+/* Class = "UILabel"; text = "welcome"; ObjectID = "kjX-Et-wEc"; */
+"kjX-Et-wEc.text" = "welcome";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "l7Y-5w-0mQ"; */
+"l7Y-5w-0mQ.normalTitle" = "Login";
+
+/* Class = "UIViewController"; title = "launchVc"; ObjectID = "rAN-gv-2cg"; */
+"rAN-gv-2cg.title" = "launchVc";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "tCP-u8-k6w"; */
+"tCP-u8-k6w.placeholder" = "Password";

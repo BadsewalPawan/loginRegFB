@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/Badsewal/Desktop/swiftPorjects/loginRegFB/loginRegFB/launchVC.swift">
+   </FileRef>
+   <FileRef
       location = "self:loginRegFB.xcodeproj">
    </FileRef>
 </Workspace>
